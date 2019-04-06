@@ -19,6 +19,10 @@ Starting January 1, 2019, the US Department of Health and Human Services [began 
 4. The prices in the chargemasters are often inflated by seemingly random amounts, the result of attempting to provide more flexibility for hospitals when negotiating actual prices with insurance companies.
     * Once procedures and consumables are decoded and comparable semantically, the distributions of these prices by location, hospital type, etc. will be interesting to investigate.
 
+## Important Notes
+
+Many of the hospitals included not only their chargemaster, but also average Diagnosis Related Group (DRG) charges. As these appear to be simply aggregates of related line items in the chargemaster, I did not include them in this repo.
+
 ## License
 
 This project uses the MIT License.
