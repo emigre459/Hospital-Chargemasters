@@ -21,7 +21,7 @@ Starting January 1, 2019, the US Department of Health and Human Services [began 
 
 ## Important Notes
 
-Many of the hospitals included not only their chargemaster, but also average Diagnosis Related Group (DRG) charges. As these appear to be simply aggregates of related line items in the chargemaster, I did not include them in this repo.
+After doing some of my own searching and extracting of files (see `chargemasters` folder), I discovered [this wonderful repo](https://github.com/vsoch/hospital-chargemaster) maintained by @vsoch and abandoned my preliminary efforts to collect these chargemasters in favor of using her great collection. So, feel free to ignore what I currently have in my `chargemasters` directory in favor of what's in that repo. Thanks @vsoch!
 
 ## License
 
